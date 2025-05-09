@@ -1,7 +1,7 @@
 # Hi there, my name is Hernando Montoya 👋
 ### Research & Development Engineer
 
-:school_satchel: I'm a professional software developer for more than ten years.
+:school_satchel: I'm a professional software developer for more than twenty years.
 
 <!--
 **hernando-montoya/hernando-montoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
